@@ -13,7 +13,7 @@ Ripple provides several public servers for the benefit of the XRP Ledger communi
 | Operator | [Network][] | JSON-RPC URL | WebSocket URL | Notes                |
 |:---------|:------------|:-------------|:--------------|:---------------------|
 | Ripple   | **Mainnet** | `https://s1.ripple.com:51234/` | `wss://s1.ripple.com/` | General purpose server cluster |
-| Ripple   | **Mainnet** | `https://s2.ripple.com:51234/` | `wss://s2.ripple.com/` | [Full-history server](ledger-history.html#full-history) cluster |
+| Ripple   | **Mainnet** | `https://s2.ripple.com:51234/` | `wss://s2.ripple.com/` | [](ledger-history.html#history) cluster |
 | Ripple   | Testnet     | `https://s.altnet.rippletest.net:51234/` | `wss://s.altnet.rippletest.net/` | Testnet public server |
 | Ripple   | Devnet      | `https://s.devnet.rippletest.net:51234/` | `wss://s.devnet.rippletest.net/` | Devnet public server |
 
